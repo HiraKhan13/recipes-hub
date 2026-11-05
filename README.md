@@ -49,4 +49,5 @@ docs/               requirements document
 ## Team
 
 - Hira Khan, [LinkedIn](https://www.linkedin.com/in/hirakhan01)
-- Aiman
+- Aiman, [LinkedIn](https://ww.linkedin.com/in/aiman-attaullah)
+  
